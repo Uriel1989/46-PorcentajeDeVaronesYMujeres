@@ -1,0 +1,33 @@
+C:\Users\tauro\Desktop\PorcentajeDeVaronesYMujeres\PorcentajeDeVaronesYMujeres\bin\Debug\netcoreapp2.1\PorcentajeDeVaronesYMujeres.deps.json
+C:\Users\tauro\Desktop\PorcentajeDeVaronesYMujeres\PorcentajeDeVaronesYMujeres\bin\Debug\netcoreapp2.1\PorcentajeDeVaronesYMujeres.runtimeconfig.json
+C:\Users\tauro\Desktop\PorcentajeDeVaronesYMujeres\PorcentajeDeVaronesYMujeres\bin\Debug\netcoreapp2.1\PorcentajeDeVaronesYMujeres.runtimeconfig.dev.json
+C:\Users\tauro\Desktop\PorcentajeDeVaronesYMujeres\PorcentajeDeVaronesYMujeres\bin\Debug\netcoreapp2.1\PorcentajeDeVaronesYMujeres.dll
+C:\Users\tauro\Desktop\PorcentajeDeVaronesYMujeres\PorcentajeDeVaronesYMujeres\bin\Debug\netcoreapp2.1\PorcentajeDeVaronesYMujeres.pdb
+C:\Users\tauro\Desktop\PorcentajeDeVaronesYMujeres\PorcentajeDeVaronesYMujeres\obj\Debug\netcoreapp2.1\PorcentajeDeVaronesYMujeres.csprojAssemblyReference.cache
+C:\Users\tauro\Desktop\PorcentajeDeVaronesYMujeres\PorcentajeDeVaronesYMujeres\obj\Debug\netcoreapp2.1\PorcentajeDeVaronesYMujeres.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Desktop\PorcentajeDeVaronesYMujeres\PorcentajeDeVaronesYMujeres\obj\Debug\netcoreapp2.1\PorcentajeDeVaronesYMujeres.AssemblyInfoInputs.cache
+C:\Users\tauro\Desktop\PorcentajeDeVaronesYMujeres\PorcentajeDeVaronesYMujeres\obj\Debug\netcoreapp2.1\PorcentajeDeVaronesYMujeres.AssemblyInfo.cs
+C:\Users\tauro\Desktop\PorcentajeDeVaronesYMujeres\PorcentajeDeVaronesYMujeres\obj\Debug\netcoreapp2.1\PorcentajeDeVaronesYMujeres.dll
+C:\Users\tauro\Desktop\PorcentajeDeVaronesYMujeres\PorcentajeDeVaronesYMujeres\obj\Debug\netcoreapp2.1\PorcentajeDeVaronesYMujeres.pdb
+C:\Users\tauro\Desktop\45-PorcentajeDeVaronesYMujeres\PorcentajeDeVaronesYMujeres\bin\Debug\netcoreapp2.1\PorcentajeDeVaronesYMujeres.deps.json
+C:\Users\tauro\Desktop\45-PorcentajeDeVaronesYMujeres\PorcentajeDeVaronesYMujeres\bin\Debug\netcoreapp2.1\PorcentajeDeVaronesYMujeres.runtimeconfig.json
+C:\Users\tauro\Desktop\45-PorcentajeDeVaronesYMujeres\PorcentajeDeVaronesYMujeres\bin\Debug\netcoreapp2.1\PorcentajeDeVaronesYMujeres.runtimeconfig.dev.json
+C:\Users\tauro\Desktop\45-PorcentajeDeVaronesYMujeres\PorcentajeDeVaronesYMujeres\bin\Debug\netcoreapp2.1\PorcentajeDeVaronesYMujeres.dll
+C:\Users\tauro\Desktop\45-PorcentajeDeVaronesYMujeres\PorcentajeDeVaronesYMujeres\bin\Debug\netcoreapp2.1\PorcentajeDeVaronesYMujeres.pdb
+C:\Users\tauro\Desktop\45-PorcentajeDeVaronesYMujeres\PorcentajeDeVaronesYMujeres\obj\Debug\netcoreapp2.1\PorcentajeDeVaronesYMujeres.csprojAssemblyReference.cache
+C:\Users\tauro\Desktop\45-PorcentajeDeVaronesYMujeres\PorcentajeDeVaronesYMujeres\obj\Debug\netcoreapp2.1\PorcentajeDeVaronesYMujeres.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Desktop\45-PorcentajeDeVaronesYMujeres\PorcentajeDeVaronesYMujeres\obj\Debug\netcoreapp2.1\PorcentajeDeVaronesYMujeres.AssemblyInfoInputs.cache
+C:\Users\tauro\Desktop\45-PorcentajeDeVaronesYMujeres\PorcentajeDeVaronesYMujeres\obj\Debug\netcoreapp2.1\PorcentajeDeVaronesYMujeres.AssemblyInfo.cs
+C:\Users\tauro\Desktop\45-PorcentajeDeVaronesYMujeres\PorcentajeDeVaronesYMujeres\obj\Debug\netcoreapp2.1\PorcentajeDeVaronesYMujeres.dll
+C:\Users\tauro\Desktop\45-PorcentajeDeVaronesYMujeres\PorcentajeDeVaronesYMujeres\obj\Debug\netcoreapp2.1\PorcentajeDeVaronesYMujeres.pdb
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\46-PorcentajeDeVaronesYMujeres\PorcentajeDeVaronesYMujeres\bin\Debug\netcoreapp2.1\PorcentajeDeVaronesYMujeres.deps.json
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\46-PorcentajeDeVaronesYMujeres\PorcentajeDeVaronesYMujeres\bin\Debug\netcoreapp2.1\PorcentajeDeVaronesYMujeres.runtimeconfig.json
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\46-PorcentajeDeVaronesYMujeres\PorcentajeDeVaronesYMujeres\bin\Debug\netcoreapp2.1\PorcentajeDeVaronesYMujeres.runtimeconfig.dev.json
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\46-PorcentajeDeVaronesYMujeres\PorcentajeDeVaronesYMujeres\bin\Debug\netcoreapp2.1\PorcentajeDeVaronesYMujeres.dll
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\46-PorcentajeDeVaronesYMujeres\PorcentajeDeVaronesYMujeres\bin\Debug\netcoreapp2.1\PorcentajeDeVaronesYMujeres.pdb
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\46-PorcentajeDeVaronesYMujeres\PorcentajeDeVaronesYMujeres\obj\Debug\netcoreapp2.1\PorcentajeDeVaronesYMujeres.csprojAssemblyReference.cache
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\46-PorcentajeDeVaronesYMujeres\PorcentajeDeVaronesYMujeres\obj\Debug\netcoreapp2.1\PorcentajeDeVaronesYMujeres.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\46-PorcentajeDeVaronesYMujeres\PorcentajeDeVaronesYMujeres\obj\Debug\netcoreapp2.1\PorcentajeDeVaronesYMujeres.AssemblyInfoInputs.cache
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\46-PorcentajeDeVaronesYMujeres\PorcentajeDeVaronesYMujeres\obj\Debug\netcoreapp2.1\PorcentajeDeVaronesYMujeres.AssemblyInfo.cs
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\46-PorcentajeDeVaronesYMujeres\PorcentajeDeVaronesYMujeres\obj\Debug\netcoreapp2.1\PorcentajeDeVaronesYMujeres.dll
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\46-PorcentajeDeVaronesYMujeres\PorcentajeDeVaronesYMujeres\obj\Debug\netcoreapp2.1\PorcentajeDeVaronesYMujeres.pdb
